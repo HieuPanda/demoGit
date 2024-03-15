@@ -1,0 +1,1 @@
+callback tức là tham số truyền vào là con trỏ hàm
